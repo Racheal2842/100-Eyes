@@ -54,26 +54,48 @@ Post-event Follow-up: Referral tracking and impact assessment.
 
 Venue:NATIONAL YOUTH SERVICE CORPS Lagos Island Local GovernmentNo 2a Foresight Street, Opposite Girls Academy,Foresight Street, Opposite Mandilas Carrier Building,Simpson Street, Sura, Lagos Island.
 
-Date: 29th April
+Date: 29th April, 2025
 
-4. Budget Estimate
+4. Budget Breakdown for the "100 Eyes" Project
+Total Estimated Cost: ₦687,500
 
-Blood Pressure Monitor: ₦35,000
+1. Blood Pressure Monitor (₦35,000 per one) – ₦70,000
 
-Blood Sugar Monitor: ₦50,000
 
-Glucometer Strips: ₦25,000
+2. Blood Sugar Monitor (₦50,000 per one) – ₦100,000
 
-Prescription Glasses (Reading Add, Minus & Plus Single Vision): ₦150,000
 
-Publicity (Fliers, Banners, etc.): ₦30,000
+3. Lancet Needles – ₦5,000
 
-Educational Pamphlets (Design & Printing): ₦56,000
 
-Medications (Anti-allergic, Antioxidants, Multivitamins, Antibiotics, Anti-inflammatory, Artificial Tears): ₦86,000
+4. Cotton Wool and Methylated Spirit – ₦5,000
 
-Logistics (Transport of Items & Personnel, Market Runs, etc.): ₦45,000
 
-Refreshments for Workforce (₦3,500 per person for 10 persons): ₦35,000
+5. Glucometer Strips – ₦38,000
 
-Total Estimated Cost: ₦512,000
+
+6. Prescription Glasses (Reading Add, Minus & Plus Single Vision) – ₦170,000
+
+
+7. Glasses Pouch – ₦12,500
+
+
+8. Publicity (Fliers, Banners, etc.) – ₦35,000
+
+
+9. Educational Pamphlets (Design & Printing) – ₦56,000
+
+
+10. Medications (Anti-allergic, Antioxidants, Multivitamins, Antibiotics, Anti-inflammatory, Artificial Tears) – ₦106,000
+
+
+11. Logistics (Transport of Items & Personnel, Market Runs, etc.) – ₦55,000
+
+
+12. Refreshments for Workforce (₦3,500 per person for 10 persons) – ₦35,000
+
+
+
+Total: ₦687,500
+
+
