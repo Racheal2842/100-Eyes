@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,10 +30,10 @@
             left: 15px;
         }
         h1 {
-            margin-top: 50px; /* Reduced spacing between logo and title */
+            margin-top: 50px; 
             text-align: center;
             font-size: 26px;
-            margin-bottom: 10px; /* Reduced spacing between title and paragraph */
+            margin-bottom: 10px;
         }
         p {
             margin-bottom: 15px;
@@ -54,15 +53,43 @@
             background: #467E3B;
         }
 
+        /* Modal styling */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 10;
+            left: 0; top: 0;
+            width: 100%; height: 100%;
+            overflow: auto;
+            background-color: rgba(0,0,0,0.7);
+        }
+        .modal-content {
+            background-color: #fefefe;
+            margin: 15% auto;
+            padding: 20px;
+            border-radius: 8px;
+            width: 90%;
+            max-width: 400px;
+            color: #000;
+            text-align: center;
+        }
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
         /* Mobile Responsiveness */
         @media (max-width: 768px) {
             .container {
-                max-width: 90%; /* Adjust width on smaller screens */
+                max-width: 90%; 
                 padding: 20px;
             }
             h1 {
                 font-size: 22px;
-                margin-top: 40px; /* Further reducing space on mobile */
+                margin-top: 40px;
             }
             .logo {
                 max-width: 60px;
@@ -96,9 +123,31 @@
             With each series, we will expand our reach—transforming lives, empowering students, and restoring visual independence to the elderly.
         </p>
         
-        <a href="https://paystack.com/pay/qc8vp7jrb0" class="button">Donate Now</a>
+        <a href="#" class="button" onclick="document.getElementById('bankModal').style.display='block'">Donate Now</a>
         <a href="https://wa.me/2349033118704?text=I'm%20interested%20in%20sponsoring%20the%20100%20Eyes%20Project" class="button">Sponsor Inquiry</a>
         <a href="https://github.com/Racheal2842/100-Eyes" class="button" target="_blank">Project Details</a>
     </div>
+
+    <!-- Bank transfer modal -->
+    <div id="bankModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="document.getElementById('bankModal').style.display='none'">&times;</span>
+            <h3>Bank Transfer Details</h3>
+            <p><strong>Account Name:</strong> OHONBAMU RACHEAL OSASENAGA</p>
+            <p><strong>Bank:</strong> Polaris Bank</p>
+            <p><strong>Account Number:</strong> 3125103921</p>
+            <p>Please include your name in the payment description.</p>
+        </div>
+    </div>
+
+    <script>
+        // Close modal when clicking outside the box
+        window.onclick = function(event) {
+            let modal = document.getElementById('bankModal');
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    </script>
 </body>
 </html>
